@@ -17,4 +17,7 @@ This project features a real-time proximity alert system designed to simulate mo
 ## Implementation Details
 The system utilizes the pulseIn() function to measure the duration of sound wave travel. Distance is computed based on the speed of sound in air (approx. 343 m/s).
 
-## Project Media
+## Technical Demonstration
+The following video demonstrates the operational cycle of the prototype, showing the correlation between object proximity and the frequency of audio-visual feedback.
+
+https://github.com/ddfnegul/Smart-Automotive-Parking-System/blob/main/demo_video.mp4
